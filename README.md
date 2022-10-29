@@ -1,10 +1,10 @@
 # AI-ML-DS-DL-NLP-OpenCV-Projects
 
-** Artificial Intelligence ** 
-** Machine Learning **
-** Data Science **
-** Deep Learning **
-** Natural Language Processing(NLP)**
-** Computer Vision(OpencV) **
+### **Artificial Intelligence(AI)** 
+### **Machine Learning(ML)**
+### **Data Science(DS)**
+### **Deep Learning(DL)**
+### **Natural Language Processing(NLP)**
+### **Computer Vision(OpencV)**
 
 Projects for Beginners, Intermediate and Advanced.
