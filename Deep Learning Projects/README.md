@@ -7,9 +7,7 @@
 ### 4. Forest Fire Detection using CNN
 ### 5. Gender and Age Prediction - Image Classification and Regression
 ### 6. Pneumonia Detection
-### 7. Autoencoder - Deep CNN
-### 8. Cassava Leaf Disease Detection - PyTorch Image Classification
-### 9. Dogs Vs Cats Image Classification - CNN
-### 10. Facial Emotion Recognition - Image Classification 
+### 7. Dogs Vs Cats Image Classification - CNN
+### 8. Facial Emotion Recognition - Image Classification 
 
 To be continued .....
